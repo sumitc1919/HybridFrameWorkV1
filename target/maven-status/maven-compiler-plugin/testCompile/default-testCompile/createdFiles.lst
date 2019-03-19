@@ -1,0 +1,9 @@
+com\hybframe\testCases\TC_LoginDDT_002.class
+com\hybframe\pageObjects\AddCustomerPage.class
+com\hybframe\pageObjects\LoginPage.class
+com\hybframe\utilities\ReadConfig.class
+com\hybframe\testCases\BaseClass.class
+com\hybframe\testCases\TC_AddCustomerTest_003.class
+com\hybframe\testCases\TC_LoginTest_001.class
+com\hybframe\utilities\Reporting.class
+com\hybframe\utilities\XLUtils.class

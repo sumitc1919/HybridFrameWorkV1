@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HybridFrameWorkV1" duration-ms="26086" started-at="2019-03-18T11:23:34Z" finished-at="2019-03-18T11:24:00Z">
+    <groups>
+    </groups>
+    <test name="HybridFrame Test" duration-ms="26086" started-at="2019-03-18T11:23:34Z" finished-at="2019-03-18T11:24:00Z">
+      <class name="com.hybframe.testCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.hybframe.testCases.TC_LoginTest_001@7f690630]" name="setup" is-config="true" duration-ms="5732" started-at="2019-03-18T11:23:34Z" finished-at="2019-03-18T11:23:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.hybframe.testCases.TC_LoginTest_001@7f690630]" name="loginTest" duration-ms="1467" started-at="2019-03-18T11:23:40Z" finished-at="2019-03-18T11:23:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hybframe.testCases.TC_LoginTest_001@7f690630]" name="tearDown" is-config="true" duration-ms="580" started-at="2019-03-18T11:23:41Z" finished-at="2019-03-18T11:23:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hybframe.testCases.TC_LoginTest_001 -->
+      <class name="com.hybframe.testCases.TC_AddCustomerTest_003">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.hybframe.testCases.TC_AddCustomerTest_003@edf4efb]" name="setup" is-config="true" duration-ms="4682" started-at="2019-03-18T11:23:42Z" finished-at="2019-03-18T11:23:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.hybframe.testCases.TC_AddCustomerTest_003@edf4efb]" name="addNewCustomer" duration-ms="12896" started-at="2019-03-18T11:23:46Z" finished-at="2019-03-18T11:23:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hybframe.testCases.TC_AddCustomerTest_003@edf4efb]" name="tearDown" is-config="true" duration-ms="585" started-at="2019-03-18T11:23:59Z" finished-at="2019-03-18T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hybframe.testCases.TC_AddCustomerTest_003 -->
+    </test> <!-- HybridFrame Test -->
+  </suite> <!-- HybridFrameWorkV1 -->
+</testng-results>
