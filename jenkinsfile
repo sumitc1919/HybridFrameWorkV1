@@ -1,11 +1,20 @@
 pipeline {
     agent any
+
     stages {
         stage('Build') {
             steps {
-            	withMaven(maven : 'jen_Maven'){
-                bat 'clean install'
-                }
+                bat 'mvn build'
+            }
+        }
+        stage('Test') {
+            steps {
+                bat 'mvn clean install'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                bat 'mavn clean'
             }
         }
     }

@@ -46,7 +46,10 @@
 
 <!-- Dependencies required for executing tests  -->
 	<dependencies>
-
+	
+	
+	
+	
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
