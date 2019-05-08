@@ -1,4 +1,44 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 26.662 sec - in TestSuite
+Tests run: 7, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 42.48 sec <<< FAILURE! - in TestSuite
+loginDDT(com.hybframe.testCases.TC_LoginDDT_002)  Time elapsed: 1.726 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at org.testng.Assert.assertTrue(Assert.java:54)
+	at com.hybframe.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:34)
+
+loginDDT(com.hybframe.testCases.TC_LoginDDT_002)  Time elapsed: 1.922 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at org.testng.Assert.assertTrue(Assert.java:54)
+	at com.hybframe.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:34)
+
+loginDDT(com.hybframe.testCases.TC_LoginDDT_002)  Time elapsed: 2.317 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at org.testng.Assert.assertTrue(Assert.java:54)
+	at com.hybframe.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:34)
+
+loginDDT(com.hybframe.testCases.TC_LoginDDT_002)  Time elapsed: 1.571 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at org.testng.Assert.assertTrue(Assert.java:54)
+	at com.hybframe.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:34)
+
+loginDDT(com.hybframe.testCases.TC_LoginDDT_002)  Time elapsed: 1.785 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at org.testng.Assert.assertTrue(Assert.java:54)
+	at com.hybframe.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:34)
+

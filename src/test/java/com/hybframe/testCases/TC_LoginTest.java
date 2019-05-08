@@ -7,14 +7,14 @@ import org.testng.annotations.Test;
 
 import com.hybframe.pageObjects.LoginPage;
 
-public class TC_LoginTest_001 extends BaseClass 
+public class TC_LoginTest extends BaseClass 
 {
 	@Test
 	public void loginTest() throws IOException
 	{
 		
 		logger.info("URL is open");
-		
+
 		LoginPage lp=new LoginPage(driver);
 		
 		lp.setUsername(username);

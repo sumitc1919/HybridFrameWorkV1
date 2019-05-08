@@ -31,8 +31,9 @@ public class BaseClass
 	public static WebDriver driver;
 	public static Logger logger;
 	
-	@Parameters("browser")
+	
 	@BeforeClass
+	@Parameters("browser")
 	public void setup(String br)
 	{
 		logger=Logger.getLogger("hybframe");
