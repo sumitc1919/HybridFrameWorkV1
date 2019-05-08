@@ -31,14 +31,13 @@ public class BaseClass
 	public static WebDriver driver;
 	public static Logger logger;
 	
-	
-	@BeforeClass
 	@Parameters("browser")
+	@BeforeClass
 	public void setup(String br)
 	{
 		logger=Logger.getLogger("hybframe");
 		PropertyConfigurator.configure("log4j.properties");
-		BasicConfigurator.configure();
+		//BasicConfigurator.configure();
 		
 		//System.setProperty("webdriver.chrome.driver",System.getProperty("usr.dir")+ "//Drivers//chromedriver.exe");
 		//System.setProperty("webdriver.chrome.driver","C:\\Users\\AM-N8\\eclipse-workspace\\HybridFrameWorkV1\\Drivers\\chromedriver.exe");

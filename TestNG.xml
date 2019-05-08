@@ -11,7 +11,7 @@
 		<parameter name="browser" value="chrome" />
 		<classes>
 		 	<class name="com.hybframe.testCases.TC_LoginTest" /> 
-			<class name="com.hybframe.testCases.TC_LoginDDT_002" />  
+		<!--  	<class name="com.hybframe.testCases.TC_LoginDDT_002" /> -->  
 			<class name="com.hybframe.testCases.TC_AddCustomerTest_003" />
 		</classes>
 	</test>
