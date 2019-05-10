@@ -101,3 +101,74 @@
 2019-05-08 18:21:43,491 [main] INFO hybframe - Username Entered
 2019-05-08 18:21:43,542 [main] INFO hybframe - Password Entered
 2019-05-08 18:21:43,665 [main] INFO hybframe - Clicked on Login
+2019-05-09 12:35:02,753 [main] INFO hybframe - URL is open
+2019-05-09 12:35:02,837 [main] INFO hybframe - Username Entered
+2019-05-09 12:35:02,881 [main] INFO hybframe - Password Entered
+2019-05-09 12:35:04,083 [main] INFO hybframe - Clicked on Login
+2019-05-09 12:35:04,089 [main] INFO hybframe - Test Case Passed
+2019-05-09 12:35:09,514 [main] INFO hybframe - Username Entered
+2019-05-09 12:35:09,558 [main] INFO hybframe - Password Entered
+2019-05-09 12:35:14,318 [main] INFO hybframe - Providing Customer Details-----!!
+2019-05-09 12:35:22,750 [main] INFO hybframe - Validation Started--------!!
+2019-05-09 12:35:22,775 [main] INFO hybframe - TestCase Passed
+2019-05-09 12:35:50,539 [main] INFO hybframe - URL is open
+2019-05-09 12:35:50,625 [main] INFO hybframe - Username Entered
+2019-05-09 12:35:50,675 [main] INFO hybframe - Password Entered
+2019-05-09 12:35:51,983 [main] INFO hybframe - Clicked on Login
+2019-05-09 12:35:51,989 [main] INFO hybframe - Test Case Passed
+2019-05-09 12:35:57,723 [main] INFO hybframe - Username Entered
+2019-05-09 12:35:57,769 [main] INFO hybframe - Password Entered
+2019-05-09 12:36:02,030 [main] INFO hybframe - Providing Customer Details-----!!
+2019-05-09 12:36:10,315 [main] INFO hybframe - Validation Started--------!!
+2019-05-09 12:36:10,336 [main] INFO hybframe - TestCase Passed
+2019-05-09 12:38:51,978 [main] INFO hybframe - URL is open
+2019-05-09 12:39:12,857 [main] INFO hybframe - URL is open
+2019-05-09 12:39:12,942 [main] INFO hybframe - Username Entered
+2019-05-09 12:39:13,003 [main] INFO hybframe - Password Entered
+2019-05-09 12:39:14,594 [main] INFO hybframe - Clicked on Login
+2019-05-09 12:39:14,602 [main] INFO hybframe - Test Case Passed
+2019-05-09 12:39:19,915 [main] INFO hybframe - Username Entered
+2019-05-09 12:39:19,961 [main] INFO hybframe - Password Entered
+2019-05-09 12:39:24,317 [main] INFO hybframe - Providing Customer Details-----!!
+2019-05-09 12:39:33,019 [main] INFO hybframe - Validation Started--------!!
+2019-05-09 12:39:33,028 [main] INFO hybframe - TestCase Passed
+2019-05-09 12:39:48,388 [main] INFO hybframe - URL is open
+2019-05-09 12:39:48,476 [main] INFO hybframe - Username Entered
+2019-05-09 12:39:48,529 [main] INFO hybframe - Password Entered
+2019-05-09 12:39:49,712 [main] INFO hybframe - Clicked on Login
+2019-05-09 12:39:49,720 [main] INFO hybframe - Test Case Passed
+2019-05-09 12:39:55,236 [main] INFO hybframe - Username Entered
+2019-05-09 12:39:55,284 [main] INFO hybframe - Password Entered
+2019-05-09 12:39:59,520 [main] INFO hybframe - Providing Customer Details-----!!
+2019-05-09 12:40:07,972 [main] INFO hybframe - Validation Started--------!!
+2019-05-09 12:40:07,993 [main] INFO hybframe - TestCase Passed
+2019-05-10 09:25:58,188 [main] INFO hybframe - URL is open
+2019-05-10 09:25:58,281 [main] INFO hybframe - Username Entered
+2019-05-10 09:25:58,330 [main] INFO hybframe - Password Entered
+2019-05-10 09:25:59,508 [main] INFO hybframe - Clicked on Login
+2019-05-10 09:25:59,515 [main] INFO hybframe - Test Case Passed
+2019-05-10 09:26:04,736 [main] INFO hybframe - Username Entered
+2019-05-10 09:26:04,780 [main] INFO hybframe - Password Entered
+2019-05-10 09:26:08,859 [main] INFO hybframe - Providing Customer Details-----!!
+2019-05-10 09:26:17,702 [main] INFO hybframe - Validation Started--------!!
+2019-05-10 09:26:17,721 [main] INFO hybframe - TestCase Passed
+2019-05-10 09:47:20,371 [main] INFO hybframe - URL is open
+2019-05-10 09:47:20,450 [main] INFO hybframe - Username Entered
+2019-05-10 09:47:20,493 [main] INFO hybframe - Password Entered
+2019-05-10 09:47:21,660 [main] INFO hybframe - Clicked on Login
+2019-05-10 09:47:21,668 [main] INFO hybframe - Test Case Passed
+2019-05-10 09:47:26,927 [main] INFO hybframe - Username Entered
+2019-05-10 09:47:26,972 [main] INFO hybframe - Password Entered
+2019-05-10 09:47:31,386 [main] INFO hybframe - Providing Customer Details-----!!
+2019-05-10 09:47:39,652 [main] INFO hybframe - Validation Started--------!!
+2019-05-10 09:47:39,667 [main] INFO hybframe - TestCase Passed
+2019-05-10 10:06:08,005 [main] INFO hybframe - URL is open
+2019-05-10 10:06:08,091 [main] INFO hybframe - Username Entered
+2019-05-10 10:06:08,144 [main] INFO hybframe - Password Entered
+2019-05-10 10:06:09,254 [main] INFO hybframe - Clicked on Login
+2019-05-10 10:06:09,266 [main] INFO hybframe - Test Case Passed
+2019-05-10 10:06:14,746 [main] INFO hybframe - Username Entered
+2019-05-10 10:06:14,801 [main] INFO hybframe - Password Entered
+2019-05-10 10:06:18,914 [main] INFO hybframe - Providing Customer Details-----!!
+2019-05-10 10:06:28,333 [main] INFO hybframe - Validation Started--------!!
+2019-05-10 10:06:28,345 [main] INFO hybframe - TestCase Passed

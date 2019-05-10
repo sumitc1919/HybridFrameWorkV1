@@ -47,8 +47,12 @@
 <!-- Dependencies required for executing tests  -->
 	<dependencies>
 	
-	
-	
+		<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin -->
+		<dependency>
+    		<groupId>org.apache.maven.plugins</groupId>
+    		<artifactId>maven-compiler-plugin</artifactId>
+    		<version>3.7.0</version>
+		</dependency>
 	
 		<dependency>
 			<groupId>junit</groupId>
