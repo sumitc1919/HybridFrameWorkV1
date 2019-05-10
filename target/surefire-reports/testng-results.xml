@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="HybridFrameWorkV1" duration-ms="26528" started-at="2019-05-10T04:36:02Z" finished-at="2019-05-10T04:36:28Z">
+  <suite name="HybridFrameWorkV1" duration-ms="25868" started-at="2019-05-10T07:28:55Z" finished-at="2019-05-10T07:29:21Z">
     <groups>
     </groups>
-    <test name="HybridFrame Test" duration-ms="26528" started-at="2019-05-10T04:36:02Z" finished-at="2019-05-10T04:36:28Z">
+    <test name="HybridFrame Test" duration-ms="25868" started-at="2019-05-10T07:28:55Z" finished-at="2019-05-10T07:29:21Z">
       <class name="com.hybframe.testCases.TC_AddCustomerTest_003">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.hybframe.testCases.TC_AddCustomerTest_003@edf4efb]" name="setup" is-config="true" duration-ms="4779" started-at="2019-05-10T04:36:09Z" finished-at="2019-05-10T04:36:14Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.hybframe.testCases.TC_AddCustomerTest_003@edf4efb]" name="setup" is-config="true" duration-ms="4979" started-at="2019-05-10T07:29:02Z" finished-at="2019-05-10T07:29:07Z">
           <params>
             <param index="0">
               <value>
@@ -18,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.hybframe.testCases.TC_AddCustomerTest_003@edf4efb]" name="addNewCustomer" duration-ms="13672" started-at="2019-05-10T04:36:14Z" finished-at="2019-05-10T04:36:28Z">
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.hybframe.testCases.TC_AddCustomerTest_003@edf4efb]" name="addNewCustomer" duration-ms="13330" started-at="2019-05-10T07:29:07Z" finished-at="2019-05-10T07:29:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addNewCustomer -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hybframe.testCases.TC_AddCustomerTest_003@edf4efb]" name="tearDown" is-config="true" duration-ms="616" started-at="2019-05-10T04:36:28Z" finished-at="2019-05-10T04:36:28Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hybframe.testCases.TC_AddCustomerTest_003@edf4efb]" name="tearDown" is-config="true" duration-ms="573" started-at="2019-05-10T07:29:21Z" finished-at="2019-05-10T07:29:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.hybframe.testCases.TC_AddCustomerTest_003 -->
       <class name="com.hybframe.testCases.TC_LoginTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.hybframe.testCases.TC_LoginTest@7f690630]" name="setup" is-config="true" duration-ms="5425" started-at="2019-05-10T04:36:02Z" finished-at="2019-05-10T04:36:08Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.hybframe.testCases.TC_LoginTest@7f690630]" name="setup" is-config="true" duration-ms="5015" started-at="2019-05-10T07:28:56Z" finished-at="2019-05-10T07:29:01Z">
           <params>
             <param index="0">
               <value>
@@ -39,11 +39,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.hybframe.testCases.TC_LoginTest@7f690630]" name="loginTest" duration-ms="1262" started-at="2019-05-10T04:36:08Z" finished-at="2019-05-10T04:36:09Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.hybframe.testCases.TC_LoginTest@7f690630]" name="loginTest" duration-ms="1222" started-at="2019-05-10T07:29:01Z" finished-at="2019-05-10T07:29:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hybframe.testCases.TC_LoginTest@7f690630]" name="tearDown" is-config="true" duration-ms="614" started-at="2019-05-10T04:36:09Z" finished-at="2019-05-10T04:36:09Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hybframe.testCases.TC_LoginTest@7f690630]" name="tearDown" is-config="true" duration-ms="581" started-at="2019-05-10T07:29:02Z" finished-at="2019-05-10T07:29:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
