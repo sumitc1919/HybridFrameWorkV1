@@ -17,6 +17,7 @@
 
 <!-- Plug-ins required for executing tests  --> 	
 	<build> 
+		
 		<plugins>
 		
 			<plugin>
@@ -41,7 +42,23 @@
 				</configuration>
 			</plugin>
 			
+			<plugin>
+        		<groupId>org.apache.maven.plugins</groupId>
+        		<artifactId>maven-jar-plugin</artifactId>
+        		<version>3.0.2</version>
+      		</plugin>
+      		
+    <!--   		<plugin>
+  				<groupId>org.codehaus.mojo</groupId>
+  				<artifactId>exec-maven-plugin</artifactId>
+  				<version>1.4.0</version>
+  				<configuration>
+    				<mainClass>org.dhappy.test.NeoTraverse</mainClass>
+  				</configuration>
+			</plugin> -->
+			
 		</plugins>
+		
 	</build>
 	
 
@@ -68,7 +85,7 @@
 			<artifactId>selenium-java</artifactId>
 			<version>3.141.59</version>
 		</dependency>
-
+		
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 		<dependency>
 			<groupId>org.testng</groupId>

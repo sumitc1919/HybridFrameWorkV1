@@ -14,9 +14,11 @@ public class LoginPage {
 		ldriver=rdriver;
 		PageFactory.initElements(rdriver,this);
 	}
+	
 	//Elements
 	@FindBy(name="uid")
 	WebElement txtUsername;
+	
 	
 	@FindBy(name="password")
 	WebElement txtPassword;
