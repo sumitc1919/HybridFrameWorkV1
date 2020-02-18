@@ -325,3 +325,29 @@
 2019-05-13 11:56:13,685 - hybframe -INFO - Providing Customer Details-----!!
 2019-05-13 11:56:22,395 - hybframe -INFO - Validation Started--------!!
 2019-05-13 11:56:22,406 - hybframe -INFO - TestCase Passed
+2020-02-18 12:54:21,027 - hybframe -INFO - URL is open
+2020-02-18 12:54:27,201 - hybframe -INFO - Username Entered
+2020-02-18 12:54:32,628 - hybframe -INFO - Password Entered
+2020-02-18 12:54:43,533 - hybframe -INFO - Clicked on Login
+2020-02-18 12:54:44,147 - hybframe -INFO - Test Case Passed
+2020-02-18 12:55:01,373 - hybframe -INFO - Username Entered
+2020-02-18 12:55:07,312 - hybframe -INFO - Password Entered
+2020-02-18 12:55:21,449 - hybframe -INFO - Providing Customer Details-----!!
+2020-02-18 12:57:24,705 - hybframe -INFO - URL is open
+2020-02-18 12:57:24,817 - hybframe -INFO - Username Entered
+2020-02-18 12:57:24,894 - hybframe -INFO - Password Entered
+2020-02-18 12:57:26,127 - hybframe -INFO - Clicked on Login
+2020-02-18 12:57:26,139 - hybframe -INFO - Test Case Passed
+2020-02-18 12:57:35,184 - hybframe -INFO - Username Entered
+2020-02-18 12:57:35,246 - hybframe -INFO - Password Entered
+2020-02-18 12:57:40,128 - hybframe -INFO - Providing Customer Details-----!!
+2020-02-18 12:57:49,777 - hybframe -INFO - Validation Started--------!!
+2020-02-18 12:57:49,821 - hybframe -INFO - TestCase Passed
+2020-02-18 12:59:12,120 - hybframe -INFO - URL is open
+2020-02-18 12:59:19,192 - hybframe -INFO - Username Entered
+2020-02-18 12:59:25,584 - hybframe -INFO - Password Entered
+2020-02-18 12:59:36,531 - hybframe -INFO - Clicked on Login
+2020-02-18 12:59:36,992 - hybframe -INFO - Test Case Passed
+2020-02-18 12:59:53,911 - hybframe -INFO - Username Entered
+2020-02-18 12:59:59,778 - hybframe -INFO - Password Entered
+2020-02-18 13:00:14,804 - hybframe -INFO - Providing Customer Details-----!!
