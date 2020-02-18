@@ -379,3 +379,16 @@
 2020-02-18 13:17:03,630 [main] INFO hybframe - Username Entered
 2020-02-18 13:17:09,718 [main] INFO hybframe - Password Entered
 2020-02-18 13:17:23,850 [main] INFO hybframe - Providing Customer Details-----!!
+2020-02-18 13:24:20,001 [main] INFO hybframe - URL is open
+2020-02-18 13:24:27,137 [main] INFO hybframe - Username Entered
+2020-02-18 13:24:33,350 [main] INFO hybframe - Password Entered
+2020-02-18 13:24:44,410 [main] INFO hybframe - Clicked on Login
+2020-02-18 13:24:45,027 [main] INFO hybframe - Test Case Passed
+2020-02-18 13:25:02,023 [main] INFO hybframe - Username Entered
+2020-02-18 13:25:08,326 [main] INFO hybframe - Password Entered
+2020-02-18 13:25:22,624 [main] INFO hybframe - Providing Customer Details-----!!
+2020-02-18 13:35:24,659 [main] INFO hybframe - URL is open
+2020-02-18 13:35:31,496 [main] INFO hybframe - Username Entered
+2020-02-18 13:35:37,755 [main] INFO hybframe - Password Entered
+2020-02-18 13:35:48,017 [main] INFO hybframe - Clicked on Login
+2020-02-18 13:35:48,492 [main] INFO hybframe - Test Case Passed

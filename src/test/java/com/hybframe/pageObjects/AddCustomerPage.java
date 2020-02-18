@@ -18,7 +18,7 @@ public class AddCustomerPage
 	@FindBy(xpath="//a[contains(text(),'New Customer')]")
 	WebElement lnkAddNewCustomer;
 	
-	@FindBy(xpath="//input[@name='name']")
+	@FindBy(xpath="//input[@onkeyup='validatecustomername();']")
 	WebElement txtCustomerName;
 	
 	@FindBy(name="rad1")
