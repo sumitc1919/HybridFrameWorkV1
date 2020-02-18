@@ -351,3 +351,31 @@
 2020-02-18 12:59:53,911 [main] INFO hybframe - Username Entered
 2020-02-18 12:59:59,778 [main] INFO hybframe - Password Entered
 2020-02-18 13:00:14,804 [main] INFO hybframe - Providing Customer Details-----!!
+2020-02-18 13:11:33,155 [main] INFO hybframe - URL is open
+2020-02-18 13:11:33,263 [main] INFO hybframe - Username Entered
+2020-02-18 13:11:33,326 [main] INFO hybframe - Password Entered
+2020-02-18 13:11:34,931 [main] INFO hybframe - Clicked on Login
+2020-02-18 13:11:34,952 [main] INFO hybframe - Test Case Passed
+2020-02-18 13:11:43,793 [main] INFO hybframe - Username Entered
+2020-02-18 13:11:43,861 [main] INFO hybframe - Password Entered
+2020-02-18 13:11:48,316 [main] INFO hybframe - Providing Customer Details-----!!
+2020-02-18 13:11:57,505 [main] INFO hybframe - Validation Started--------!!
+2020-02-18 13:11:57,519 [main] INFO hybframe - TestCase Passed
+2020-02-18 13:15:16,888 [main] INFO hybframe - URL is open
+2020-02-18 13:15:16,986 [main] INFO hybframe - Username Entered
+2020-02-18 13:15:17,045 [main] INFO hybframe - Password Entered
+2020-02-18 13:15:18,914 [main] INFO hybframe - Clicked on Login
+2020-02-18 13:15:18,922 [main] INFO hybframe - Test Case Passed
+2020-02-18 13:15:32,438 [main] INFO hybframe - Username Entered
+2020-02-18 13:15:32,504 [main] INFO hybframe - Password Entered
+2020-02-18 13:15:37,389 [main] INFO hybframe - Providing Customer Details-----!!
+2020-02-18 13:15:46,763 [main] INFO hybframe - Validation Started--------!!
+2020-02-18 13:15:46,790 [main] INFO hybframe - TestCase Passed
+2020-02-18 13:16:21,544 [main] INFO hybframe - URL is open
+2020-02-18 13:16:27,846 [main] INFO hybframe - Username Entered
+2020-02-18 13:16:33,754 [main] INFO hybframe - Password Entered
+2020-02-18 13:16:45,121 [main] INFO hybframe - Clicked on Login
+2020-02-18 13:16:45,740 [main] INFO hybframe - Test Case Passed
+2020-02-18 13:17:03,630 [main] INFO hybframe - Username Entered
+2020-02-18 13:17:09,718 [main] INFO hybframe - Password Entered
+2020-02-18 13:17:23,850 [main] INFO hybframe - Providing Customer Details-----!!

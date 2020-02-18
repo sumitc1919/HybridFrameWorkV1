@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="69.672" tests="2" errors="0" skipped="0" failures="1">
+<testsuite name="TestSuite" time="69.363" tests="2" errors="0" skipped="0" failures="1">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\bin"/>
@@ -62,17 +62,17 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="loginTest" classname="com.hybframe.testCases.TC_LoginTest" time="24.873"/>
-  <testcase name="addNewCustomer" classname="com.hybframe.testCases.TC_AddCustomerTest_003" time="44.799">
-    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;*[name=&apos;name&apos;]&quot;}&#10;  (Session info: chrome=80.0.3987.106)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-4PNSGE4&apos;, ip: &apos;192.168.0.115&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_201&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.106, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\WINDOWS\TEMP\scoped_dir7...}, goog:chromeOptions: {debuggerAddress: localhost:54590}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#10;Session ID: 0a8733d93331cae67a9fe6c11f6c815f&#10;*** Element info: {Using=name, value=name}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='name']"}
+  <testcase name="loginTest" classname="com.hybframe.testCases.TC_LoginTest" time="24.199"/>
+  <testcase name="addNewCustomer" classname="com.hybframe.testCases.TC_AddCustomerTest_003" time="45.164">
+    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@name=&apos;name&apos;]&quot;}&#10;  (Session info: chrome=80.0.3987.106)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-4PNSGE4&apos;, ip: &apos;192.168.0.115&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_201&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.106, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:56945}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#10;Session ID: d7431ebad6dfcdf57fc186e126e3cf48&#10;*** Element info: {Using=xpath, value=//input[@name=&apos;name&apos;]}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='name']"}
   (Session info: chrome=80.0.3987.106)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'DESKTOP-4PNSGE4', ip: '192.168.0.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.106, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\WINDOWS\TEMP\scoped_dir7...}, goog:chromeOptions: {debuggerAddress: localhost:54590}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 0a8733d93331cae67a9fe6c11f6c815f
-*** Element info: {Using=name, value=name}
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.106, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:56945}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d7431ebad6dfcdf57fc186e126e3cf48
+*** Element info: {Using=xpath, value=//input[@name='name']}
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -84,8 +84,8 @@ Session ID: 0a8733d93331cae67a9fe6c11f6c815f
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByName(RemoteWebDriver.java:404)
-	at org.openqa.selenium.By$ByName.findElement(By.java:284)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
 	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
 	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
@@ -97,23 +97,23 @@ Session ID: 0a8733d93331cae67a9fe6c11f6c815f
  INFO [main] (TC_AddCustomerTest_003.java:21)- Password Entered
  INFO [main] (TC_AddCustomerTest_003.java:28)- Providing Customer Details-----!!
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}) on port 26949
+    <system-err><![CDATA[Starting ChromeDriver 80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}) on port 28188
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-[1582010980.632][WARNING]: Timed out connecting to Chrome, retrying...
-Feb 18, 2020 12:59:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1582012009.360][WARNING]: Timed out connecting to Chrome, retrying...
+Feb 18, 2020 1:16:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-[1582010984.918][SEVERE]: Timed out receiving message from renderer: 0.100
-[1582010985.224][SEVERE]: Timed out receiving message from renderer: 0.100
-[1582010985.543][SEVERE]: Timed out receiving message from renderer: 0.100
-[1582010985.847][SEVERE]: Timed out receiving message from renderer: 0.100
-[1582010986.161][SEVERE]: Timed out receiving message from renderer: 0.100
-[1582010986.984][SEVERE]: Timed out receiving message from renderer: 0.100
-[1582010987.243][SEVERE]: Timed out receiving message from renderer: 0.100
-[1582010987.540][SEVERE]: Timed out receiving message from renderer: 0.100
-[1582010987.854][SEVERE]: Timed out receiving message from renderer: 0.100
-[1582011010.664][SEVERE]: Timed out receiving message from renderer: 0.100
-[1582011010.979][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582012013.284][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582012014.026][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582012014.327][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582012014.648][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582012015.105][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582012015.478][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582012015.738][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582012016.036][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582012016.354][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582012039.689][SEVERE]: Timed out receiving message from renderer: 0.100
+[1582012040.004][SEVERE]: Timed out receiving message from renderer: 0.100
 ]]></system-err>
   </testcase>
 </testsuite>

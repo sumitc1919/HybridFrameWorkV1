@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="HybridFrameWorkV1" duration-ms="92660" started-at="2020-02-18T07:29:01Z" finished-at="2020-02-18T07:30:33Z">
+  <suite name="HybridFrameWorkV1" duration-ms="91780" started-at="2020-02-18T07:46:10Z" finished-at="2020-02-18T07:47:42Z">
     <groups>
     </groups>
-    <test name="HybridFrame Test" duration-ms="92660" started-at="2020-02-18T07:29:01Z" finished-at="2020-02-18T07:30:33Z">
+    <test name="HybridFrame Test" duration-ms="91780" started-at="2020-02-18T07:46:10Z" finished-at="2020-02-18T07:47:42Z">
       <class name="com.hybframe.testCases.TC_AddCustomerTest_003">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.hybframe.testCases.TC_AddCustomerTest_003@edf4efb]" name="setup" is-config="true" duration-ms="10786" started-at="2020-02-18T07:29:37Z" finished-at="2020-02-18T07:29:48Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.hybframe.testCases.TC_AddCustomerTest_003@edf4efb]" name="setup" is-config="true" duration-ms="10541" started-at="2020-02-18T07:46:46Z" finished-at="2020-02-18T07:46:56Z">
           <params>
             <param index="0">
               <value>
@@ -18,29 +18,29 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="addNewCustomer()[pri:0, instance:com.hybframe.testCases.TC_AddCustomerTest_003@edf4efb]" name="addNewCustomer" duration-ms="44793" started-at="2020-02-18T07:29:48Z" finished-at="2020-02-18T07:30:33Z">
+        <test-method status="FAIL" signature="addNewCustomer()[pri:0, instance:com.hybframe.testCases.TC_AddCustomerTest_003@edf4efb]" name="addNewCustomer" duration-ms="45156" started-at="2020-02-18T07:46:56Z" finished-at="2020-02-18T07:47:42Z">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"*[name='name']"}
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='name']"}
   (Session info: chrome=80.0.3987.106)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'DESKTOP-4PNSGE4', ip: '192.168.0.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.106, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\WINDOWS\TEMP\scoped_dir7...}, goog:chromeOptions: {debuggerAddress: localhost:54590}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 0a8733d93331cae67a9fe6c11f6c815f
-*** Element info: {Using=name, value=name}]]>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.106, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:56945}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d7431ebad6dfcdf57fc186e126e3cf48
+*** Element info: {Using=xpath, value=//input[@name='name']}]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='name']"}
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='name']"}
   (Session info: chrome=80.0.3987.106)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'DESKTOP-4PNSGE4', ip: '192.168.0.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.106, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\WINDOWS\TEMP\scoped_dir7...}, goog:chromeOptions: {debuggerAddress: localhost:54590}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 0a8733d93331cae67a9fe6c11f6c815f
-*** Element info: {Using=name, value=name}
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.106, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:56945}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: d7431ebad6dfcdf57fc186e126e3cf48
+*** Element info: {Using=xpath, value=//input[@name='name']}
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -52,8 +52,8 @@ at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.ja
 at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByName(RemoteWebDriver.java:404)
-at org.openqa.selenium.By$ByName.findElement(By.java:284)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
 at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
 at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
@@ -94,13 +94,13 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addNewCustomer -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hybframe.testCases.TC_AddCustomerTest_003@edf4efb]" name="tearDown" is-config="true" duration-ms="565" started-at="2020-02-18T07:30:33Z" finished-at="2020-02-18T07:30:33Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hybframe.testCases.TC_AddCustomerTest_003@edf4efb]" name="tearDown" is-config="true" duration-ms="565" started-at="2020-02-18T07:47:42Z" finished-at="2020-02-18T07:47:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.hybframe.testCases.TC_AddCustomerTest_003 -->
       <class name="com.hybframe.testCases.TC_LoginTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.hybframe.testCases.TC_LoginTest@7f690630]" name="setup" is-config="true" duration-ms="10896" started-at="2020-02-18T07:29:01Z" finished-at="2020-02-18T07:29:12Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.hybframe.testCases.TC_LoginTest@7f690630]" name="setup" is-config="true" duration-ms="10575" started-at="2020-02-18T07:46:10Z" finished-at="2020-02-18T07:46:21Z">
           <params>
             <param index="0">
               <value>
@@ -111,11 +111,11 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.hybframe.testCases.TC_LoginTest@7f690630]" name="loginTest" duration-ms="24873" started-at="2020-02-18T07:29:12Z" finished-at="2020-02-18T07:29:36Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.hybframe.testCases.TC_LoginTest@7f690630]" name="loginTest" duration-ms="24198" started-at="2020-02-18T07:46:21Z" finished-at="2020-02-18T07:46:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hybframe.testCases.TC_LoginTest@7f690630]" name="tearDown" is-config="true" duration-ms="573" started-at="2020-02-18T07:29:37Z" finished-at="2020-02-18T07:29:37Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hybframe.testCases.TC_LoginTest@7f690630]" name="tearDown" is-config="true" duration-ms="568" started-at="2020-02-18T07:46:45Z" finished-at="2020-02-18T07:46:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
